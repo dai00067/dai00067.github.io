@@ -1,7 +1,7 @@
 # Site settings
 title: Xinyan's Blog
 SEOTitle: Xinyan's Blog
-header-img: img/clouds-cold-colors.jpg
+header-img: img/home-bg-art.jpg
 email: zoed096@gmail.com
 description: "Every failure is leading towards success."
 keyword: "Xinyan, Xinyan's Blog, Data Analytics, Machine Learning, Big Data"
@@ -11,15 +11,15 @@ github_repo: "https://github.com/dai00067/dai00067.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "linkedin.com/in/xinyan-dai/"
+sidebar-about-description: ""
 sidebar-avatar: /img/selfie2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: true
-Github:     https://github.com/dai00067
-LinkedIn:   https://www.linkedin.com/in/xinyan-dai/
+github_username:     dai00067
+linkedin_username:  xinyan-dai
 #twitter_username:   qiubaiying
 
 
